@@ -1,7 +1,7 @@
 # 🎄 Advent of Code
 
 Welcome!  
-This repository contains my solutions to **Advent of Code**, organized by **year** and **day**.
+This repository contains my solutions to **[Advent of Code](https://adventofcode.com/)**, organized by **year** and **day**.
 
 Each puzzle is solved in Python and kept as clean and readable as possible. I also add short explanations so future-me (and others!) can understand the approach again later.
 
